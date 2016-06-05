@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: ryof.eclipse.javadoc.Main
+Boot-Class-Path: ./lib/javassist.jar
+Can-Redefine-Classes: true
